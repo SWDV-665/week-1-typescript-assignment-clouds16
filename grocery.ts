@@ -26,6 +26,6 @@ const ele = document.getElementById("list");
 itemslist.forEach(e => {
     
     const price = document.createElement("price");
-    price.textContent = `${e.name} ${e.quantity} -> $${e.price}`;
+    price.textContent = `${e.name} ${e.quantity} $${e.price} /n`;
     ele.appendChild(price);
 });
