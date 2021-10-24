@@ -1,0 +1,11 @@
+GitHub Repository URL
+https://github.com/SWDV-665/week-1-typescript-assignment-clouds16
+
+How many hours do you estimate you used completing this assignment?
+about half an hour.
+
+What was easiest for you when completing this assignment?
+using typescript since I have used it before.
+
+What was the most difficult challenge you experienced when completing this assignment?
+No difficult part of this assignment.
